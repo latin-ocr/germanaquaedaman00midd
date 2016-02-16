@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./germanaquaedaman00midd_0330.png"; bbox 0 0 2425 3152; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2162 0 2425 3152">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2162 0 2425 3152">
+     <span class='ocr_line' id='line_1_1' title="bbox 2162 0 2425 3152"><span class='ocrx_word' id='word_1_1' title='bbox 2162 0 2425 3152; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1838 2895 2145 2938">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1838 2895 2145 2938">
+     <span class='ocr_line' id='line_1_2' title="bbox 2100 2903 2145 2938; baseline 17.5 -35"><span class='ocrx_word' id='word_1_2' title='bbox 2100 2903 2145 2938; x_wconf 43' lang='grc' dir='ltr'><em>ψ.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2071 2905 2089 2913"><span class='ocrx_word' id='word_1_3' title='bbox 2071 2905 2089 2913; x_wconf 79' lang='grc'><em>.,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2029 2906 2068 2929; baseline 11.5 -23"><span class='ocrx_word' id='word_1_4' title='bbox 2029 2906 2068 2929; x_wconf 59' lang='grc' dir='ltr'><em>ψΔ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1999 2898 2023 2915"><span class='ocrx_word' id='word_1_5' title='bbox 1999 2898 2023 2915; x_wconf 54' lang='grc'><strong><em>3</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1937 2903 1991 2915"><span class='ocrx_word' id='word_1_6' title='bbox 1937 2903 1991 2915; x_wconf 49' lang='grc' dir='ltr'><em>,Μ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1904 2895 1935 2916"><span class='ocrx_word' id='word_1_7' title='bbox 1904 2895 1935 2916; x_wconf 47' lang='lat' dir='ltr'><em>,n-</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 1838 2905 1846 2912"><span class='ocrx_word' id='word_1_8' title='bbox 1838 2905 1846 2912; x_wconf 70' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1575 2899 1818 2923">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1575 2899 1818 2923">
+     <span class='ocr_line' id='line_1_9' title="bbox 1575 2899 1818 2923; baseline -0.012 -4"><span class='ocrx_word' id='word_1_9' title='bbox 1575 2899 1678 2923; x_wconf 46' lang='lat' dir='ltr'><em>...L-mv?</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1683 2908 1726 2918; x_wconf 50' lang='grc'><em>..-</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1734 2908 1818 2920; x_wconf 50' lang='lat' dir='ltr'><em>...m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1417 2910 1511 2931">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1417 2910 1564 2931">
+     <span class='ocr_line' id='line_1_10' title="bbox 1417 2910 1511 2931; baseline -0.007 -11"><span class='ocrx_word' id='word_1_12' title='bbox 1417 2910 1511 2931; x_wconf 25' lang='grc' dir='ltr'><em>,ηψπ-,μ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1217 2914 1291 2924">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1217 2914 1291 2924">
+     <span class='ocr_line' id='line_1_11' title="bbox 1217 2914 1291 2924; baseline 0 -2"><span class='ocrx_word' id='word_1_13' title='bbox 1217 2914 1291 2924; x_wconf 52' lang='grc' dir='ltr'><em>4-ιιωιιι</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
